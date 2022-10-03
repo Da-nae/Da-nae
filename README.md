@@ -6,6 +6,8 @@ If you want to know more about me, you can visit my Linkedin by clicking on the 
 
 I’m currently...
 
+- 🤩 in a training with **[Becode](https://github.com/becodeorg)**
+
 - 👩‍💻 learning **HTML, CSS, JS and PHP**
 
 - 💪  working on different projects **to improve my skills.**
