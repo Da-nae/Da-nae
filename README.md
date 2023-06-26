@@ -8,9 +8,9 @@ I’m currently...
 
 - 🤩 in a internship at **[BMC](https://github.com/belgianMobility)**
 
-- 👩‍💻 learning **HTML, CSS, JS, PHP, etc.**
+- 👩‍💻 coding with **nodeJs, SQL, PostGis, etc.**
 
-- 💪  working on different projects **to improve my skills.**
+- 💪 working on different projects **to improve my skills.**
 
 
 
