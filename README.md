@@ -6,6 +6,8 @@ If you want to know more about me, you can visit my Linkedin by clicking on the 
 
 I’m currently...
 
+- 👀 Looking for a **job in development** !
+
 - 🤩 in a internship at **[BMC](https://github.com/belgianMobility)**
 
 - 👩‍💻 coding with **nodeJs, SQL, PostGis, etc.**
