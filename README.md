@@ -6,13 +6,9 @@ If you want to know more about me, you can visit my Linkedin by clicking on the 
 
 I’m currently...
 
-- 👀 Looking for a **job in development** !
+- 🤩 working at **Epic Agency**.
 
-- 🤩 in a internship at **[BMC](https://github.com/belgianMobility)**
-
-- 👩‍💻 coding with **nodeJs, SQL, PostGis, etc.**
-
-- 💪 working on different projects **to improve my skills.**
+- 👩‍💻 coding with **PHP, nodeJs, SQL, PostGis, etc.**
 
 
 
