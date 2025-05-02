@@ -6,7 +6,7 @@ If you want to know more about me, you can visit my Linkedin by clicking on the 
 
 I’m currently...
 
-- 🤩 working at **Epic Agency**.
+- 🤩 working at **Belgian Mobility Company**.
 
 - 👩‍💻 coding with **PHP, nodeJs, SQL, PostGis, etc.**
 
